@@ -1,0 +1,15 @@
+安装库的详细信息，请参阅：http://www.arduino.cc/en/Guide/Libraries
+
+
+IRremote   红外遥控库
+U8glib     OLED库
+UTFT       彩色LCD库
+I2Cdev     6050六轴陀螺仪库1
+MPU6050    6050六轴陀螺仪库2
+TimerOne   颜色传感器
+Adafruit-PWM-Servo-Driver-Library-master  16舵机库
+Adafruit_ST3775     1.8’’TFT彩色屏幕
+Four_digital_tube   4位数码管库
+TFTLCD-Library-master 直插触摸彩屏库1
+Adafruit_GFX_Library 直插触摸彩屏库2
+aJson    贝壳物联网远程控制https://www.bigiot.net/help/2.html
